@@ -9,13 +9,13 @@ Ordenar as palavras de forma decrescente, de acordo com a quantidade de repetiç
 ## Teste 1
 
 ```
-cd projeto_01
-node index.js
+$ cd projeto_01
+$ node index.js
 ```
 
 ## teste 2
 
 ```
-cd projeto_01_rxjs
-node index.js
+$ cd projeto_01_rxjs
+$ node index.js
 ```
